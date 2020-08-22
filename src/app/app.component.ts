@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   tweet = {
     body: '...',
-    likesCount: 10,
+    likesCount: 1,
     isLiked: true
   }
 }
